@@ -1,0 +1,26 @@
+const ScreenNames = {
+  Main: "Main",
+  MainTab: "MainTab",
+  InventoryTab: "InventoryTab",
+  Inventory: "Inventory",
+  SpecificInventory: "SpecificInventory",
+  CompleteInventory: "CompleteInventory",
+  Login: "Login",
+  Profile: "Profile",
+  RecipeTab: "RecipeTab",
+  Recipes: "Recipes",
+  RecipeCategory: "RecipeCategories",
+  SingleRecipe: "SingleRecipe",
+  ShoppingList: "ShoppingList",
+  SingleList: "SingleList",
+  ShoppingListTab: "ShoppingListTab",
+  SignUp: "SignUp",
+  ExpirationDates: "ExpirationDates",
+  WeeklyMenu: "WeeklyMenu",
+  ReceiptScanner: "ReceiptScanner",
+  ScannerTab: "ScannerTab",
+  About: "About",
+  ReportProblem: "ReportProblem",
+};
+
+export default ScreenNames;
